@@ -1,0 +1,13 @@
+<app-navbar></app-navbar>
+<ng-container *ngIf="product$ | async as product">
+  <div class="card" style="width: 40rem; margin: auto;">
+    <img class="card-img-top" [src]= "product.image" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{product.name}}</h5>
+      <p class="card-text">{{product.description}}</p>
+      <p>{{product.price}}</p>
+      <a href="#" class="btn btn-primary">Ajouter à mon Panier</a>
+    </div>
+  </div>
+</ng-container>
+  

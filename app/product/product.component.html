@@ -1,0 +1,16 @@
+<div class="productbox" (mouseover)="mouseHover = true" (mouseleave)="mouseHover = false">
+    <div *ngIf="mouseHover; else elseBlock">
+        <div class="image">
+            <img [ngClass]="['scaled']" src={{product.image}} style="max-width: 100%; max-height: 100%; margin: auto;"/>
+        </div><br><br>
+        <div class="detail">
+            <button style="color: white;" (click)="readMore()">En savoir plus</button>
+        </div>
+    </div>
+    <ng-template #elseBlock>
+        <div class="image">
+            <img src={{product.image}} style="max-width: 100%; max-height: 100%; margin: auto;"/>
+        </div>
+        <h1>{{product.name}}</h1>
+    </ng-template>
+</div>

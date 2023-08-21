@@ -1,0 +1,96 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "assets/img/Iphone14.png",
+            "name": "Iphone 14",
+            "description": "L'iPhone 14 est le dernier fleuron d'Apple, alliant élégance et performances exceptionnelles. Doté d'un écran Super Retina de haute qualité, il offre des couleurs vives et des contrastes saisissants. Son puissant processeur garantit une expérience fluide, que ce soit pour les tâches quotidiennes ou les jeux gourmands en ressources. Capturez des photos incroyables grâce à son système de caméra avancé et profitez d'une autonomie de batterie prolongée pour rester connecté toute la journée. L'iPhone 14 est un symbole de sophistication technologique et de design raffiné.",
+            "price": 999.99,
+            "company": "Apple",
+            "quantity": 50,
+            "category": "Smartphone"
+        },
+        {
+            "id": 2,
+            "image": "assets/img/VivoBook.png",
+            "name": "VivoBook",
+            "description": "Le VivoBook d'ASUS est un compagnon idéal pour vos besoins informatiques quotidiens. Son design élégant abrite des performances impressionnantes, avec un processeur puissant qui vous permet d'accomplir vos tâches avec aisance. L'écran Full HD offre des images nettes et lumineuses, parfaites pour la navigation, le travail et le divertissement. Le VivoBook est également léger et portable, ce qui en fait un choix judicieux pour les personnes en déplacement. Avec son équilibre entre fonctionnalité et esthétique, le VivoBook répondra à vos attentes pour un ordinateur portable polyvalent.",
+            "price": 799.99,
+            "company": "ASUS",
+            "quantity": 30,
+            "category": "Ordinateur"
+        },
+        {
+            "id": 3,
+            "image": "assets/img/Clavier.png",
+            "name": "Magic Keyboard",
+            "description": "Le Magic Keyboard d'Apple redéfinit l'expérience de frappe. Sans fil et doté de touches réactives, il offre un confort inégalé pour la saisie de texte, que ce soit pour travailler ou pour discuter avec des amis. Son design épuré s'intègre harmonieusement à votre environnement de travail. Grâce à sa batterie longue durée, vous pourrez l'utiliser pendant des mois sans avoir à vous soucier de la recharge fréquente. Le Magic Keyboard est le choix parfait pour ceux qui recherchent à la fois élégance et performance dans un accessoire essentiel.",
+            "price": 129.99,
+            "company": "Apple",
+            "quantity": 100,
+            "category": "Accessoire"
+        },
+        {
+            "id": 4,
+            "image": "assets/img/CasqueRazer.png",
+            "name": "Nari Ultimate",
+            "description": "Le casque de jeu Nari Ultimate de Razer offre une expérience audio immersive exceptionnelle. Grâce à sa technologie de rétroaction haptique, il ajoute une dimension sensorielle en faisant ressentir physiquement le son. Plongez-vous dans des mondes virtuels avec une clarté audio exceptionnelle et une spatialisation précise. Le Nari Ultimate est également conçu pour le confort, avec des coussinets en gel rafraîchissant et un serre-tête réglable. Pour les amateurs de jeux en quête de sensations fortes, ce casque est un incontournable.",
+            "price": 199.99,
+            "company": "Razer",
+            "quantity": 20,
+            "category": "Accessoire"
+        },
+        {
+            "id": 5,
+            "image": "assets/img/SourisGamer.png",
+            "name": "Souris Gamer",
+            "description": "La souris gamer de Logitech est conçue pour répondre aux besoins des joueurs exigeants. Dotée d'une précision exceptionnelle et de boutons programmables, elle permet une personnalisation optimale selon votre style de jeu. Sa conception ergonomique assure un confort lors des sessions de jeu prolongées. La souris gamer est également dotée d'un éclairage RVB personnalisable pour ajouter une touche esthétique à votre configuration de jeu. Avec une réactivité accrue et une durabilité supérieure, cette souris vous aidera à atteindre de nouveaux sommets dans vos aventures virtuelles.",
+            "price": 59.99,
+            "company": "Logitech",
+            "quantity": 50,
+            "category": "Accessoire"
+        },
+        {
+            "id": 6,
+            "image": "assets/img/AirPodPro.png",
+            "name": "AirPod Pro",
+            "description": "Les AirPods Pro d'Apple révolutionnent l'expérience d'écoute sans fil. Dotés de la technologie de réduction active du bruit, ils vous plongent dans un son pur et immersif. Leur ajustement personnalisable garantit un port confortable et sécurisé, que vous soyez en déplacement ou en train de faire du sport. Les AirPods Pro offrent également un son exceptionnellement clair lors des appels téléphoniques et intègrent des commandes tactiles intuitives. Avec une autonomie de batterie prolongée et une qualité audio supérieure, les AirPods Pro sont l'accessoire idéal pour les audiophiles en mouvement.",
+            "price": 249.99,
+            "company": "Apple",
+            "quantity": 75,
+            "category": "Accessoire"
+        },
+        {
+            "id": 7,
+            "image": "assets/img/MacBookPro.png",
+            "name": "MacBook Pro",
+            "description": "Le MacBook Pro est le choix ultime pour les professionnels créatifs et les utilisateurs exigeants. Doté d'un superbe écran Retina, il offre des couleurs vibrantes et une résolution exceptionnelle pour une expérience visuelle hors du commun. Son processeur puissant permet de gérer facilement des tâches complexes, du montage vidéo à la conception graphique. Avec sa conception élégante en aluminium, le MacBook Pro incarne le mariage parfait entre forme et fonction. Que vous soyez un créateur de contenu ou un professionnel en déplacement, le MacBook Pro répondra à tous vos besoins.",
+            "price": 1499.99,
+            "company": "Apple",
+            "quantity": 25,
+            "category": "Ordinateur"
+        },
+        {
+            "id": 8,
+            "image": "assets/img/JBLCharge5.png",
+            "name": "JBL Charge 5",
+            "description": "La JBL Charge 5 est bien plus qu'une simple enceinte Bluetooth. Avec un son puissant et une qualité audio exceptionnelle, elle transforme l'ambiance de n'importe quel endroit en une expérience musicale immersive. Grâce à sa batterie longue durée, la Charge 5 vous permet de profiter de votre musique préférée pendant des heures, que ce soit à la plage, à une fête en plein air ou dans votre jardin. De plus, sa conception robuste et étanche en fait un choix idéal pour toutes vos aventures. La Charge 5 offre également la possibilité de charger vos appareils grâce à son port USB intégré, ce qui en fait un accessoire polyvalent pour rester connecté en déplacement.",
+            "price": 129.99,
+            "company": "JBL",
+            "quantity": 40,
+            "category": "Accessoire"
+        },
+        {
+            "id": 9,
+            "image": "assets/img/PS5.png",
+            "name": "PlayStation 5",
+            "description": "La PlayStation 5 est la dernière génération de consoles de jeu de Sony, offrant des performances de pointe pour des expériences de jeu exceptionnelles. Avec son processeur puissant et sa carte graphique avancée, la PS5 permet des graphismes époustouflants et un gameplay fluide. Plongez dans des mondes virtuels immersifs grâce à son système audio 3D innovant. La PS5 propose également une gamme diversifiée de jeux allant des blockbusters aux titres indépendants. Que vous soyez un joueur passionné ou occasionnel, la PlayStation 5 vous fera découvrir le jeu sous un nouveau jour.",
+            "price": 499.99,
+            "company": "Sony",
+            "quantity": 15,
+            "category": "Console"
+        }
+    ]
+}
+
+ 
